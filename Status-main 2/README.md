@@ -16,10 +16,6 @@ It utilizes virtual filesystems (like `/sys`, `/proc` etc.) to retrieve informat
 ### Web UI
 <img src="preview.png">
 
-### 📱 iOS app by [@JGeek00](https://github.com/JGeek00) - [AppStore](https://apps.apple.com/us/app/server-status-server-monitor/id6479648296)
-<img src="preview-ios.png">
-
-
 ## :rocket: Installation
 
 This will take you just a few seconds. It's up to you which one you choose :)
@@ -32,7 +28,8 @@ This will take you just a few seconds. It's up to you which one you choose :)
 
 ```
 # Clone the repo
-git clone https://github.com/dani3l0/Status && cd Status
+git clone https://github.com/nani8-35/linux-system-monitor-cli.git && cd Status
+
 
 # Prepare virtual environment in 'venv' dir (venv only)
 python3 -m venv venv
@@ -58,7 +55,7 @@ sh -c "source ./venv/bin/activate && python3 status.py"
 
 ```
 # Clone the repo
-git clone https://github.com/dani3l0/Status && cd Status
+git clone https://github.com/nani8-35/linux-system-monitor-cli.git && cd Status
 
 # Build & run app
 docker-compose up -d

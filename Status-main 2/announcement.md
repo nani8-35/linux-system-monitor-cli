@@ -21,7 +21,9 @@ Yes, I am going to rewrite Status again, but this time in `Go`.
 
 Project is not yet usable, but I'm sharing it to prove our app is not dead at all :)
 
-For more details and updates, check **[dani3l0/Statee](https://github.com/dani3l0/Statee)** repo
+For more details and updates, check this repository:
+https://github.com/nani8-35/linux-system-monitor-cli
+
 
 
 ### Planned features
